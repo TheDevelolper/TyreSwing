@@ -3,6 +3,13 @@
   "version": "0.0.0",
   "private": true,
   "dependencies": {
+    "babel-loader": "^8.2.5",
+    "css-loader": "^6.7.1",
+    "style-loader": "^3.3.1",
     "three": "^0.141.0"
+  },
+  "devDependencies": {
+    "webpack": "^5.72.1",
+    "webpack-cli": "^4.9.2"
   }
 }
